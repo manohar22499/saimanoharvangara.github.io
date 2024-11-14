@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Autonomous Maze-Solving Robot",
+    "desc": "Designed and 3D printed the robot chassis in SOLIDWORKS and Implemented a Flood-fill algorithm in C++, integrated sensors,motor driver, and DC motors with Arduino, optimizing pathfinding and decision-making logic",
+    "image": "assets/images/projects/RobotMaze.jpg",
+    "category": "",
+    "links": {
+      "view": "https://github.com/manohar22499/Maze-solving-robot-using-flood-fill"
+    }
+  },
+  {
+    "name": "Design and Optimization of Micro-Scale Jumping Microrobot",
+    "desc": "Led a project to optimize a micro-scale jumping robot, achieving a 50% increase in jump acceleration through MATLAB-based optimization, achieving 9.4 m/s acceleration, improving the robot's manufacturability using RIE or DRIE methods.",
+    "image": "/projects/JMEMS.jpg",
+    "category": "",
+    "links": {
+      "view": "assets/Resume/Jumping_MEMS.pdf"
+
+    }
+  },
+  {
+    "name": "Study on effects of cutting parameters on the metal cutting process by simulation and experimentation",
+    "desc": "Developed a FEM (Finite element method) model to Abaqus using Johnson-cook damage model parameters measure cutting forces for various cutting parameters and rake angles for 2D orthogonal cutting.Conducted milling experiments with an HSS tool on Aluminum 7050, applying DOE and regression analysis achieving a maximum error of 11.94% between experimental and mathematical model results.",
+    "image": "assets/images/projects/Study.jpg",
+    "category": "",
+    "links": {
+      "view": "https://www.researchgate.net/publication/381293846_Effect_of_Speed_Feed_and_Depth_of_Cut_on_Cutting_Forces_While_Machining_Al-7050_T7451"
+    }
+  },
+  {
+    "name": "Tribovoltaic MEMS Energy Harvester based on Metal-Semiconductor Junction",
+    "desc": "Collaborated on implementing tribovoltaic principles in MEMS for energy harvesting, optimizing the design and fabrication plan.Tested the concept at MEMS scale, confirming its feasibility and potential.",
+    "image": "assets/images/projects/TMEMS.png",
+    "category": "",
+    "links": {
+      "view": "https://ubuffalo-my.sharepoint.com/:p:/g/personal/saimanoh_buffalo_edu/ETlxie6a5RtFuzD2VlhyCqMBZ6bM19KhOwUV6x1G_aiUPg?e=dS7GR7"
+    }
+  },
+  {
+    "name": "Discrete control of Autonomous flight of Quadcopter",
+    "desc": "Developed a discrete control system for an autonomous quadcopter by modeling its nonlinear dynamics and linearizing it into a state-space form. Designed a Proportional controller through pole placement in MATLAB, ensuring stable hovering and altitude control under wind disturbances. Integrated a Luenberger observer for accurate state estimation, achieving improved control stability with no overshoot and a settling time of 1.25 seconds.",
+    "image": "assets/images/projects/Q.png",
+    "category": "",
+    "links": {
+      "view": "assets/Resume/DCS_Project.pdf"
+    }
+  },
+  {
+    "name": "Trajectory planning of end-effectors to avoid obstacles while welding",
+    "desc": "Led a team of two to design different paths for end-effectors passing through welding path using Cubic spline-Hermit interpolation and Beizer methods using MATLAB and SIMLINK for inverse kinematics of Kuka LBR iiwa 14 robotic arm.",
+    "image": "assets/images/projects/Tra.png",
+    "category": "",
+    "links": {
+      "view": "assets/Resume/Tra_final.pdf"
+    }
+  },
+  {
+    "name": "PID Controller-Based Tank Level Control Using Siemens TIA Portal and Factory IO",
+    "desc": "Developed ladder logic in Siemens TIA Portal for a PID controller-based tank level control system using Siemens 1500 PLC withHMI WinCC advanced. PID tuning and optimized control parameters to achieve precise level regulation in SIMULINK.",
+    "image": "assets/images/projects/TPID.jgp",
+    "category": "",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "3D Printer Nozzle Control Model",
+    "desc": "Developed a Model for dynamics of a DC motor and print nozzle and used PI controller to properly position the nozzle, Visualizations of the printer movement using Simulink.",
+    "image": "assets/images/projects/3DP.png",
+    "category": "",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Pick and Place control using Micro logix 500",
+    "desc": "Developed ladder logic for Pick and place using ladder logic programming with Allen Bradley PLC Micro logix 500 for packaging",
+    "image": "assets/images/projects/PP.png",
+    "category": "",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]

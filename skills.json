@@ -1,0 +1,151 @@
+[
+    {
+        "name": "Autodesk AutoCAD",
+        "icon": "assets/images/skills/icons8-autocad-48.png"
+    },
+    {
+        "name": "Autodesk Inventor",
+        "icon": "assets/images/skills/1704443757383.png"
+    },
+    {
+        "name": "Solidworks",
+        "icon": "assets/images/skills/icons8-solidworks-48.png"
+    },
+    {
+        "name": "Ansys",
+        "icon": "assets/images/skills/ANSYS_logo.png"
+    },
+    {
+        "name": "Abaqus",
+        "icon": "assets/images/skills/abaqusCAE.png"
+    },
+    {
+        "name": "3D Printing",
+        "icon": "assets/images/skills/icons8-3d-printing-64.png"
+    },
+    {
+        "name": "Coppelisim",
+        "icon": "assets/images/skills/Csim.png"
+    },
+    {
+        "name": "Prototyping",
+        "icon": "assets/images/skills/icons8-prototyping-64.png"
+    },
+    {
+        "name": "Fusion 360",
+        "icon": "assets/images/skills/fusion360.png"
+    },
+    {
+        "name": "Catia",
+        "icon": "assets/images/skills/DS-CATIA-Logo.png"
+    },
+    {
+        "name": "Creo",
+        "icon": "assets/images/skills/1704443733371.png"
+    },
+    {
+        "name": "LabView",
+        "icon": "assets/images/skills/labview.png"
+    },
+    {
+        "name": "MATLAB",
+        "icon": "assets/images/skills/icons8-matlab-48.png"
+    },
+    {
+        "name": "Fluent ",
+        "icon": "Fluent.png"
+    },
+    {
+        "name": "Microsoft Office",
+        "icon": "assets/images/skills/icons8-microsoft-office-2019-48.png"
+    },
+    {
+        "name": "Visual Studio",
+        "icon": "assets/images/skills/icons8-visual-studio-code-2019-48.png"
+    },
+    {
+        "name": "Python",
+        "icon": "assets/images/skills/icons8-python-48.png"
+    },
+    {
+        "name": "C++",
+        "icon": "assets/images/skills/icons8-c-48.png"
+    },
+    {
+        "name": "Mirco Logix 500",
+        "icon": "assets/images/skills/logix.png"
+    },
+    {
+        "name": "Wonderware Intouch",
+        "icon": "assets/images/skills/intouch.png"
+    },
+    {
+        "name": "Win CC Advance",
+        "icon": "assets/images/skills/Wincc.jpg"
+    },
+    {
+        "name": "PlatformIO",
+        "icon": "assets/images/skills/Platform.png"
+    },
+    {
+        "name": "Factory I/O",
+        "icon": "assets/images/skills/facIO.png"
+    },
+    {
+        "name": "Siemens TIA Portal",
+        "icon": "assets/images/skills/Tia.png"
+    },
+    {
+        "name": "MSC ADAMS",
+        "icon": "assets/images/skills/Adams.jpg"
+    },
+    {
+        "name": "MySQL",
+        "icon": "assets/images/skills/icons8-mysql-48.png"
+    },
+    {
+        "name": "CNC programming",
+        "icon": "assets/images/skills/CNC.png"
+    },
+    {
+        "name": "Pneumatic systems",
+        "icon": "assets/images/skills/pneu.png"
+    },
+    {
+        "name": "Programmable logic controller",
+        "icon": "assets/images/skills/plc.jpg"
+    },
+    {
+        "name": "Sensors",
+        "icon": "assets/images/skills/sensor.png"
+    },
+    {
+        "name": "Communicating with Confidence",
+        "icon": "CommunicatingwithConfidence.png"
+    },
+    
+    {
+        "name": "Interpersonal Communication",
+        "icon": "InterpersonalCommunication.png"
+    },
+    {
+        "name": "Working Remotely",
+        "icon": "WorkingRemotely.png"
+    },
+    {
+        "name": "Effective Team Member",
+        "icon": "EffectiveTeamMember.png"
+    },
+    {
+        "name": "Communication",
+        "icon": "Communication.png"
+    },
+    {
+        "name": "Delivering Bad News",
+        "icon": "DeliveringBadNews.png"
+    },
+    {
+        "name": "Business Writing",
+        "icon": "BusinessWriting.png"
+    }
+]

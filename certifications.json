@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Autodesk AutoCAD",
+        "icon": "assets/images/skills/icons8-autocad-48.png"
+    },
+    {
+        "name": "Autodesk Inventor",
+        "icon": "assets/images/skills/Inventor.png"
+    },
+    {
+        "name": "Solidworks",
+        "icon": "assets/images/skills/icons8-solidworks-48.png"
+    },
+    {
+        "name": "Ansys",
+        "icon": "assets/images/skills/ANSYS_logo.png"
+    },
+    {
+        "name": "3D Printing",
+        "icon": "assets/images/skills/icons8-3d-printing-64.png"
+    },
+    {
+        "name": "C#",
+        "icon": "assets/images/skills/c2.png"
+    },
+    {
+        "name": "LaTeX",
+        "icon": "assets/images/skills/LaTeX_logo.png"
+    },
+    {
+        "name": "Flask",
+        "icon": "assets/images/skills/icons8-flask-64.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "assets/images/skills/icons8-html-48.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "assets/images/skills/icons8-docker-48.png"
+    },
+    {
+        "name": "MATLAB",
+        "icon": "assets/images/skills/icons8-matlab-48.png"
+    },
+    {
+        "name": "Fluent ",
+        "icon": "Fluent.png"
+    },
+    {
+        "name": "Angular",
+        "icon": "assets/images/skills/icons8-angular-48.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "assets/images/skills/icons8-amazon-web-services-48.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "assets/images/skills/icons8-github-60.png"
+    },
+    {
+        "name": "RoboAnalyser",
+        "icon": "RoboAnalyser.png"
+    },
+    {
+        "name": "Communicating with Confidence",
+        "icon": "CommunicatingwithConfidence.png"
+    },
+    {
+        "name": "Great First Impression",
+        "icon": "GreatFirstImpressions.png"
+    },
+    {
+        "name": "Interpersonal Communication",
+        "icon": "InterpersonalCommunication.png"
+    },
+    {
+        "name": "Working Remotely",
+        "icon": "WorkingRemotely.png"
+    },
+    {
+        "name": "Effective Team Member",
+        "icon": "EffectiveTeamMember.png"
+    },
+    {
+        "name": "Communication",
+        "icon": "Communication.png"
+    },
+    {
+        "name": "Delivering Bad News",
+        "icon": "DeliveringBadNews.png"
+    },
+    {
+        "name": "Business Writing",
+        "icon": "BusinessWriting.png"
+    }
+
+]
